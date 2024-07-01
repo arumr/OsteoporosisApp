@@ -1,0 +1,15 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Osteoporosis" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/biru</item>
+        <item name="colorPrimaryVariant">@color/Hijau_tua</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/Hijau_tua</item>
+        <item name="colorSecondaryVariant">@color/biru</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@color/white</item>
+        <item name="android:textColorHint">@color/black2</item>
+    </style>
+</resources>

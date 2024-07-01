@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="black2">#324047</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="Hijau_tua">#00a8a8</color>
+    <color name="Hijau_muda">#6D9773</color>
+    <color name="grey">#efefef</color>
+    <color name="biru">#00cece</color>
+</resources>

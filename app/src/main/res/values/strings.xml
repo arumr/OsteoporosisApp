@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Osteoporosis</string>
+    <string-array name="jenis_kelamin">
+        <item>Perempuan</item>
+        <item>Laki - Laki</item>
+    </string-array>
+    <string-array name="hormon">
+        <item>Normal</item>
+        <item>Postmenopausal</item>
+    </string-array>
+    <string-array name="Riwayat">
+        <item>Tidak</item>
+        <item>Iya</item>
+    </string-array>
+    <string-array name="Etnis">
+        <item>Afrika/Amerika</item>
+        <item>Asia</item>
+        <item>Eropa</item>
+    </string-array>
+    <string-array name="Berat">
+        <item>Tidak Normal</item>
+        <item>Normal</item>
+    </string-array>
+    <string-array name="Kalsium">
+        <item>Cukup</item>
+        <item>Rendah</item>
+    </string-array>
+    <string-array name="VitD">
+        <item>Tidak Cukup</item>
+        <item>Cukup</item>
+    </string-array>
+    <string-array name="Aktivitas">
+        <item>Tidak Banyak Bergerak</item>
+        <item>Aktif</item>
+    </string-array>
+    <string-array name="Merokok">
+        <item>Tidak</item>
+        <item>Iya</item>
+    </string-array>
+    <string-array name="Kondisi">
+        <item>Hyperthyroidism</item>
+        <item>Rheumatoid Arthritis</item>
+        <item>Normal</item>
+    </string-array>
+    <string-array name="Patah">
+        <item>Tidak</item>
+        <item>Iya</item>
+    </string-array>
+</resources>
